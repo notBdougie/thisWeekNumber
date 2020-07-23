@@ -1,4 +1,4 @@
-<h1 align="center">@notNdougie/theweeknum 👋</h1>
+<h1 align="center">@notBdougie/theweeknum 👋</h1>
 <p>
   <a href="https://www.npmjs.com/package/theweeknum">
     <img alt="Version" src="https://img.shields.io/npm/v/theweeknum.svg">
@@ -43,7 +43,7 @@ npm run test
 
 👤 **bdougie**
 
-* GitHub: [@bdougie](https://github.com/bdougie)
+* GitHub: [@notBdougie](https://github.com/bdougie)
 
 ## 🤝 Contributing
 
